@@ -1,0 +1,1 @@
+# fishy-argocd-app-config
