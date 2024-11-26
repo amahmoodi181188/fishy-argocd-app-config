@@ -17,3 +17,4 @@ spec:
         image: alimah181188/app2:1.1
         ports:
         - containerPort: 8080
+        
