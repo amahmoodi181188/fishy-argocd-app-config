@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: alimah181188/django.nv:1.0
+        image: alimah181188/app2:1.0
         ports:
         - containerPort: 8080
